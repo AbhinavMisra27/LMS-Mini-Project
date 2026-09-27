@@ -9,3 +9,7 @@ This repository is created for practicing Git and GitHub version control operati
 - Pull and merge
 - Conflict resolution
 - Basic CI workflow
+
+## Feature UI
+
+This section represents changes made in the feature-ui branch.
