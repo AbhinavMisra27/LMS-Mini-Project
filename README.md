@@ -1,6 +1,6 @@
 # LMS Mini Project
 
-This repository is created for practicing Git and GitHub version control operations.
+This repository is created for practicing Git conflict resolution.
 
 ## Activities
 - Repository creation
