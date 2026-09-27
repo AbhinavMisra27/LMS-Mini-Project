@@ -2,6 +2,8 @@
 
 This repository is created for practicing Git conflict resolution.
 
+This repository is created for demonstrating Git merge conflicts.
+
 ## Activities
 - Repository creation
 - Commit and push
